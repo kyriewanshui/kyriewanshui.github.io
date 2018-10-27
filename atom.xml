@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>一些思考</title>
   
-  <subtitle>又一个GoodHexo小站</subtitle>
+  <subtitle>废人日志</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="kyriewanshui.github.io/"/>
